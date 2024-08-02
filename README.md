@@ -13,9 +13,7 @@ This project aims to predict the weekly sales of stores for a chain using regres
 - [Predictive Modelling](#predictive-modelling)
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 This project aims to predict the weekly sales of stores using regression techniques. We analyzed historical data covering the sales of 45 stores from 2010 to 2012, considering factors such as holidays, temperature, CPI, and unemployment rate.
@@ -52,13 +50,9 @@ Different regression models used, such as:
 Evaluation metrics and the performance of the models, with tables or charts if necessary.
 
 ## Conclusion
-Findings and conclusions from the project.
+Our project demonstrates the importance of data analysis and
+predictive modeling to understand the factors influencing sales and for
+strategies to improve them. The results obtained provide a
+a solid foundation for future studies and the implementation of concrete solutions
+The aim is to optimise the stores' sales performance.
 
-## Usage
-Instructions on how to use the code, including steps to install necessary packages and run the scripts.
-
-## Contributing
-How others can contribute to the project.
-
-## License
-The license under which the project is distributed.
